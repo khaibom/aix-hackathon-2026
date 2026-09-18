@@ -8,7 +8,7 @@ Before analyzing, planning, answering questions, or modifying files, read all of
 - `hackathon/readme-requirements.md`: README writing requirements.
 - `hackathon/scoring-criteria.md`: judging criteria.
 
-These are the official source documents for the competition. When information conflicts, prefer these files and ask the user if the correct interpretation is unclear.
+These are the official soursce documents for the competition. When information conflicts, prefer these files and ask the user if the correct interpretation is unclear.
 
 ## Protect the hackathon directory
 
